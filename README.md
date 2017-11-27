@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<body style="background-color:rgb(200,200,200);">
-
+<head>
 <style>
 body {margin:0;}
 .topnav {
@@ -33,9 +31,9 @@ body {margin:0;}
 <div class="topnav">
   <a class="active" href="siva.html">Home</a>
   <a href="exam papers.html">exam papers</a>
- <a href="contact.html">Contact</a>
+  <a href="contact.html">Contact</a>
   <a href="https://www.employmentnewsinindia.com/"target="_blank">job updates</a>
- <a href="login.html">logout</a>
+<a href="login.html">logout</a>
 
 
 
@@ -45,26 +43,103 @@ body {margin:0;}
   
   
 </div>
-<h1 <strong>competative papers</strong></h1>
-<p style="font-family:arial;font-size:125%; color:rgb(255,0,0);padding: 5px 8px" >  ISRO</p>
-<a href="ISRO-2013-EE.pdf"target="_blank"><h style="font-family:arial;padding: 14px 16px;font-size:125%; color:rgb(0,0,245);" >   EE-2013  </h></a>
-<a href="ISRO-2014-EE.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" >   EE-2014  </h></a>
-<p style="font-family:arial;font-size:125%; color:rgb(255,0,0);padding: 5px 8px" >AP GENCO</p>
-<a href="APGENCO(Electrical) 2017.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-2017(QUESTIONS)    </h></a> <a href="APGENCO(Electrical) 2017-Key.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-2017(KEY)    </h></a>
-<p style="font-family:arial;font-size:125%; color:rgb(255,0,0);padding: 5px 8px" >AP TRANSCO</p>
-<a href="AP TRANSCO(EEE)-2017.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-17(QUESTIONS)  </h></a><a href="AP TRANSCO(EEE)-2017-Key.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-17(KEY)  </h></a>
-<p style="font-family:arial;font-size:125%; color:rgb(255,0,0);padding: 5px 8px" > GATE</p>
-<a href="GATE 2017 - EE - 1.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-17(QUESTIONS)-SET1  </h></a><a href="GATE 2017 -EE-Set 1 Final key.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-17(KEY)-SET1  </h></a><br><br>
 
-<a href="GATE 2017 - EE - 2.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-17(QUESTIONS)-SET2  </h></a><a href="GATE 2017 -EE-Set 2 Final key.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > EE-17(KEY)-SET2  </h></a>
-<p style="font-family:arial;font-size:125%; color:rgb(255,0,0);padding: 5px 8px" > APSPDCL</p>
+</body>
+</html>
 
-<a href="APSPDCL-12.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > APSPDCL-12(QUESTIONS)  </h></a>
-<a href="APSPDCL-14.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > APSPDCL-14(QUESTIONS)  </h></a><a href="APSPDCL-14(KEY).pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > APSPDCL-14(KEY) </h></a>
 
-<p style="font-family:arial;font-size:125%; color:rgb(255,0,0);padding: 5px 8px" > APEPDCL</p>
+<!--details-->
+<style>
+body {
+    font-family: "Lato", sans-serif;
+    transition: background-color .5s;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
 
-<a href="APEPDCL-14.pdf"target="_blank"><h style="font-family:arial;font-size:125%;padding: 14px 16px; color:rgb(0,0,245);" > APEPDCL-14(QUESTIONS)  </h></a>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="siva2.html">ACADEMIC DETAILS</a>
+  <a href="siva resume.pdf">resume</a>
+  <a href="adhar card.jpg">adhar card</a>
+  <a href="graduation certificate.pdf">graduation certificate</a>
+  <a href="inter certificate.pdf">inter certificate</a>
+</div>
+
+<div id="main">
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;details</span>
+</div>
+
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    document.getElementById("main").style.marginLeft= "0";
+    document.body.style.backgroundColor = "rgb(200,200,200)";
+}
+</script>
+
+<body style="background-color:rgb(200,200,200);">
+
+<!-- begning-->
+
+
+<h1 style="font-family:arial; font-size:300%;  color:rgb(0,0,200);" align="center">WELCOME</h1>
+
+
+
+<p align="center">
+<a href="https://www.GMAIL.com">
+<img src="siva.jpg" alt="C:\Users\Asus\Desktop\New folder\siva.jpg" width="104" height="142" border="2px solid powderblue"/>
+ </a>
+</p>
+
+<h1 align="center" style="font-family:arial;font-size:150%; color:rgb(0,0,200);"  ><i>SIVA KRISHNA</i></h1>
+
+
 
 
 </body>
