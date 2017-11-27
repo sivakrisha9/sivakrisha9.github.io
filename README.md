@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -25,7 +25,7 @@ body {margin:0;}
     color: white;
 }
 </style>
-</head>
+
 <body>
 
 <div class="topnav">
