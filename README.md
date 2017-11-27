@@ -1,6 +1,5 @@
 
-<html>
-<head>
+
 <style>
 body {margin:0;}
 .topnav {
@@ -45,7 +44,7 @@ body {margin:0;}
 </div>
 
 </body>
-</html>
+
 
 
 <!--details-->
@@ -93,7 +92,7 @@ body {
   .sidenav a {font-size: 18px;}
 }
 </style>
-</head>
+
 <body>
 
 <div id="mySidenav" class="sidenav">
