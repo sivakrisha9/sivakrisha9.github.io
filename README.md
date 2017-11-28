@@ -29,10 +29,9 @@ body {margin:0;}
 
 <div class="topnav">
   <a class="active" href="siva.html">Home</a>
-  <a href="dropdown.html">papers</a>
+  <a href="exampapers.html">papers</a>
   <a href="https://www.employmentnewsinindia.com/"target="_blank">job updates</a>
- <a href="contact.html"><h1 align="right" style="font-family:arial;font-size:150%; color:rgb(0,0,200);"  ><i>SIVA KRISHNA</i></h1>
-</a>
+ <a href="contact.html">contact</a>
 
 </div>
 
@@ -114,8 +113,8 @@ function closeNav() {
     document.body.style.backgroundColor = "rgb(200,200,200)";
 }
 </script>
-
-<body style="background-color:rgb(200,200,200);">
-
+<body>
+background-image: ("cool.jpg");
+</body>
 </body>
 </html>
