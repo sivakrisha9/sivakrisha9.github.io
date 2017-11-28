@@ -97,11 +97,7 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="siva2.html">ACADEMIC DETAILS</a>
-  <a href="siva resume.pdf">resume</a>
-  <a href="adhar card.jpg">adhar card</a>
-  <a href="graduation certificate.pdf">graduation certificate</a>
-  <a href="inter certificate.pdf">inter certificate</a>
+  <a href="siva2.html">GATE PREPARATION</a>
 </div>
 
 <div id="main">
@@ -131,8 +127,8 @@ function closeNav() {
 
 
 <p align="center">
-<a href="https://www.GMAIL.com">
-<img src="siva.jpg" alt="C:\Users\Asus\Desktop\New folder\siva.jpg" width="104" height="142" border="2px solid powderblue"/>
+<a href="https://www.">
+  
  </a>
 </p>
 
