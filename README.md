@@ -30,11 +30,9 @@ body {margin:0;}
 <div class="topnav">
   <a class="active" href="siva.html">Home</a>
   <a href="dropdown.html">papers</a>
-  <a href="contact.html">Contact</a>
   <a href="https://www.employmentnewsinindia.com/"target="_blank">job updates</a>
-<a href="login.html">logout</a>
-
-
+ <a href="contact.html"><h1 align="right" style="font-family:arial;font-size:150%; color:rgb(0,0,200);"  ><i>SIVA KRISHNA</i></h1>
+</a>
 
 </div>
 
@@ -97,7 +95,7 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="siva2.html">GATE PREPARATION</a>
+  <a href=".html">GATE PREPARATION</a>
 </div>
 
 <div id="main">
@@ -118,24 +116,6 @@ function closeNav() {
 </script>
 
 <body style="background-color:rgb(200,200,200);">
-
-<!-- begning-->
-
-
-<h1 style="font-family:arial; font-size:300%;  color:rgb(0,0,200);" align="center">WELCOME</h1>
-
-
-
-<p align="center">
-<a href="https://www.">
-  
- </a>
-</p>
-
-<h1 align="center" style="font-family:arial;font-size:150%; color:rgb(0,0,200);"  ><i>SIVA KRISHNA</i></h1>
-
-
-
 
 </body>
 </html>
