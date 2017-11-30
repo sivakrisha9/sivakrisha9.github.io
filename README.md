@@ -28,7 +28,21 @@ body {margin:0;}
 <body>
 
 <div class="topnav">
-  <a class="active" href="siva.html">Home</a>
+  </style>
+</head>
+<body>
+
+
+<div class="dropdown">
+  <button class="dropbtn">papers </button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
+a class="active" href="siva.html">Home</a>
   <a href="exampapers.html">papers</a>
   <a href="https://www.employmentnewsinindia.com/"target="_blank">job updates</a>
  <a href="contact.html">contact</a>
@@ -94,7 +108,7 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href=".html">GATE PREPARATION</a>
+  <a href="exampapers.html">GATE PREPARATION</a>
 </div>
 
 <div id="main">
@@ -113,8 +127,5 @@ function closeNav() {
     document.body.style.backgroundColor = "rgb(200,200,200)";
 }
 </script>
-<body>
-background-image: ("cool.jpg");
-</body>
 </body>
 </html>
