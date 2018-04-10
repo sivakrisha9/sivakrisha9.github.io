@@ -33,22 +33,17 @@ body {margin:0;}
 <body>
 
 
+
+ 
 <div class="dropdown">
   <button class="dropbtn">papers </button>
   <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
-
 a class="active" href="siva.html">Home</a>
   <a href="exampapers.html">papers</a>
   <a href="https://www.employmentnewsinindia.com/"target="_blank">job updates</a>
  <a href="contact.html">contact</a>
-
 </div>
-
+ </div>
 <div style="padding-left:16px">
   
   
