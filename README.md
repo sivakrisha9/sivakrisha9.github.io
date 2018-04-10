@@ -98,10 +98,7 @@ body {
 
 <body>
 
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="exampapers.html">GATE PREPARATION</a>
-</div>
+
 
 <div id="main">
   <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;details</span>
@@ -116,7 +113,7 @@ function openNav() {
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.marginLeft= "0";
-    document.body.style.backgroundColor = "rgb(200,200,200)";
+    document.body.style.backgroundColor = "rgb(186,190,100)";
 }
 </script>
 </body>
